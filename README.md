@@ -1,2 +1,2 @@
-# amrit-creative-solo.github.io
-Creative Web Solo
+# solo-website
+# responsive creative modern website
